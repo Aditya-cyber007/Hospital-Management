@@ -3,7 +3,6 @@ The Reneal Project (Admin-Doctor-Staff-Patient)
 
 video demo : https://drive.google.com/drive/folders/1nhd9a0dqq_TmpqMfyoLnWj1cIXVsG-Wz
 
-
 Web development assessment
 
 Company details:
@@ -32,5 +31,3 @@ Required data:
 1.	Name
 2.	Phone number
 3.	AGE or DOB
-
-
